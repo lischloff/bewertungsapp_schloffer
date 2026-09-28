@@ -98,5 +98,5 @@ npx sequelize-cli model:generate --name Evaluation --attributes projectId:intege
 
 ## Screenshots der Datenbank
 
-![Übersicht der Tabellen](docs/screenshots/tables.png)
-![Übersicht der Evaluation Tabelle](docs/screenshots/evaluation_table.png)
+![Übersicht der Tabellen](../screenshots/tables.png)
+![Übersicht der Evaluation Tabelle](../screenshots/evaluation_table.png)
